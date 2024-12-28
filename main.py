@@ -7,10 +7,10 @@ from PDF_Fonts import PDF_Fonts as pdf_fonts
 
 """
 AUTHOR:   Juan Marcel Campos
-EMAIL:    jmarcel.campos@outlook.com
+EMAIL:    marcelluscampes@gmail.com
 DATE:     12/15/2024
 VERSION:  1.1.0
-GITHUB:   https://github.com/jmarcellusc/Graphical_Design_Scheme/
+GITHUB:   https://github.com/jmarcellusc/CMYK-Palette-Generator
 GIT_IGNORE: *.pdf
 CORE LIBRARIES: "reportlab", "PyPDF2"
 CORE IMPORTS: 
